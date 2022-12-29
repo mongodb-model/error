@@ -77,7 +77,7 @@ class ErrorNotification extends require("./base") {
             }
             console.log();
             console.log(`\x1b[5m Some Available Options:
-                man - for the man page.
+                man - for the man page here we go.
                 methods - for available method lists.
                 help - for the help page.
                 events - for available events.
@@ -92,7 +92,7 @@ class ErrorNotification extends require("./base") {
         ls.on('close', (code) => {})
         }else{
             console.log(`\x1b[5m Some Available Options:
-                man - for the man page.
+                man - for the man page ss.
                 methods - for available method lists.
                 help - for the help page.
                 events - for available events.
